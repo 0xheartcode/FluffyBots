@@ -1,2 +1,3 @@
 # FluffyBots
-0x Blockchain Bots - 🐑 - Screenshots, Demo and Lite version
+This README is a WIP.
+The current main bot is https://t.me/HeartcodeDemoBot. Check it out on Telegram.
