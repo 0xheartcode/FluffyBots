@@ -1,7 +1,9 @@
 # BNBChainBot
 
 This was commissioned job I did a while back.
-Pretty early in my journey, hence why it's all 1 file.
+
+Pretty early in my journey.
+
 The bot works fine ✅
 
 The goal of this bot is to buy, sell and swap BNB to tokens, on pancakeswap v2.
